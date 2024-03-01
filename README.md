@@ -16,6 +16,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
 * [Authors](#authors)
+* [Contributor](#contributor)
 * [License](#license)
 
 ## Environment
@@ -158,6 +159,11 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Erijo Nelson - [Github](https://github.com/hovixen) / [Twitter](https://twitter..com/)
+
+## Contributor
+Nwogu Glory - [Github](https://github.com/NwoguGlory1/) / [Twitter](https://twitter.com/Nwogu_Glory1)
+
 
 Second part of Airbnb: Joann Vuong
 ## License
