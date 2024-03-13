@@ -28,12 +28,12 @@ function displayAmenities (selectedAmenities) {
 
 function checkApiStatus () {
   const url = `http://0.0.0.0:5001/api/v1/status/`;
-  $.get(url, (data) => {
-    if (data.status === 'OK') {
-      $('div#api_status').addClass('available');
-      console.log('Available');
-    } else {
-      $('div#api_status').removeClass('available');
-    }
-  });
+  $.ajax(url).done(function (data) {
+	  if (data.status === 'OK') {
+		  $('#api_status').addClass('available');
+          }
+	  else {
+	        $('#api_status').removeClass('available');
+	      }
+    });
 }
